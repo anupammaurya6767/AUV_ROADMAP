@@ -7,6 +7,7 @@ Welcome to our Autonomous Underwater Vehicle (AUV) project Roadmap using ROS 2 H
 - ROS 2 Humble Learning Roadmap: [View Here](https://whimsical.com/ros-2-humble-learning-roadmap-DyTeAPpSWr4YA1uuLuyQkL)
 - OpenCV C++ Learning Adventure: [View Here](https://whimsical.com/opencv-c-learning-adventure-DyGNE6dp4cJow4s5edaXZ5)
 - Tanuj AUV in Simulated Environment: [View Here](https://whimsical.com/tanuj-BtjmKy9rz71nrEKZY9z4tX)
+- Embedded Department Roadmap: [View Here](https://whimsical.com/embedded-systems-department-roadmap-for-auv-project-M9Rma1XKN7dWRR9hDVs5Jq)
 
 ## Tanuj AUV in Simulated Environment
 
