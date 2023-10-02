@@ -1,4 +1,4 @@
-# Tanuj
+# Tanuj (AUV ka naam hai 😉)
 <img align='right' src="https://github.com/anupammaurya6767/AUV_ROADMAP/blob/main/assets/tan1.jpg" alt="Tanjiro-sama" width="300" height="400">
 Welcome to our Autonomous Underwater Vehicle (AUV) project Roadmap using ROS 2 Humble, OpenCV in C++, and YOLO for object detection.
 
