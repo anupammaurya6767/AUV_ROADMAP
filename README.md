@@ -31,7 +31,7 @@ We use YOLO (You Only Look Once) for real-time object detection in our AUV proje
 
 We welcome collaboration and contributions from the community. If you have suggestions, encounter issues, or would like to contribute to our project, please feel free to:
 
-- [Create an Issue](link-to-issues) to report problems or propose enhancements.
+- [Create an Issue](https://github.com/anupammaurya6767/AUV_ROADMAP/issues/new/choose) to report problems or propose enhancements.
 - Make a Pull Request (PR) to contribute code, fixes, or improvements.
 
 We appreciate your interest in our project and look forward to working together to make our AUV project even better.
